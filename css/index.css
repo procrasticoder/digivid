@@ -35,10 +35,9 @@ header{
     position: absolute;
     top: 0;
     left: 0;
-    height: 97%;
+    height: 100%;
     width: 100%;
-    /* background: linear-gradient(135deg, rgba(112, 0, 0, 0.5) 40%, rgba(0, 0, 0, 0.5) 40%); */
-    background-color: rgba(0, 0, 0, 0.5);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.7) 20%, transparent 100%);
 }
 .navbar-secondary{
     font-size: large;
@@ -121,4 +120,37 @@ header{
 }
 .services-box:hover .services-box-text{
     opacity: 1;
+}
+.work-process-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.card{
+    position: relative;
+}
+.card img{
+    width: 100%;
+    height: 15rem;
+}
+.card-details{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 2px;
+    /* display: none; */
+}
+
+.card:hover .card-details{
+    background-color: rgba(126, 0, 0, 0.8);
+}
+.card-details p{
+    text-align: center;
 }

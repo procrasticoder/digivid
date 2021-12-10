@@ -199,6 +199,57 @@
         </div>
     </div>
 
+    <div class="container-fluid mx-0 px-0 pb-4">
+        <div class="work-process">
+            <h1 style="color: rgb(240, 0, 0); text-align: center;"><u>Work Process</u></h1>
+            <p style="text-align: center;">To make life of our clients easier, we have developed a comprehensive workflow.</p>
+            <div class="work-process-cards">
+                <div class="card">
+                    <img src="images/idea.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Get Ideas</h6>
+                        <p>Every Project Starts with a great idea.</p>
+                    </div> 
+                </div>
+                <div class="card">
+                    <img src="images/discussion.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Discuss</h6>
+                        <p>Your inputs are most valuable assets.</p>
+                    </div> 
+                </div>
+                <div class="card">
+                    <img src="images/planning.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Planning</h6>
+                        <p>A thoughtfull execution of Plan ensures timely delievery.</p>
+                    </div> 
+                </div>
+                <div class="card">
+                    <img src="images/production.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Production</h6>
+                        <p>Lights, Camera, Action! All magic happens here.</p>
+                    </div> 
+                </div>
+                <div class="card">
+                    <img src="images/post production.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Post Production</h6>
+                        <p>Where every thing is creatively stitched together.</p>
+                    </div> 
+                </div>
+                <div class="card">
+                    <img src="images/approval.jpg" alt="">
+                    <div class="card-details">
+                        <h6>Approval</h6>
+                        <p>Your approval really means a lot to our entire team.</p>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container-fluid px-3 py-3" style="background: rgb(240, 240, 240);">
         <div class="container-fluid" style="background: linear-gradient(-135deg, red 5%, transparent 5%);">
             <h1 style="text-align: center;">Ready to get to work??</h1>
