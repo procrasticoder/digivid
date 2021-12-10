@@ -199,7 +199,7 @@
         </div>
     </div>
 
-    <div class="container-fluid mx-0 px-0 pb-4">
+    <div class="container-fluid mx-0 px-0 pb-4" style="background: linear-gradient(-135deg, red 5%, transparent 5%);" >
         <div class="work-process">
             <h1 style="color: rgb(240, 0, 0); text-align: center;"><u>Work Process</u></h1>
             <p style="text-align: center;">To make life of our clients easier, we have developed a comprehensive workflow.</p>
@@ -251,9 +251,10 @@
     </div>
 
     <div class="container-fluid px-3 py-3" style="background: rgb(240, 240, 240);">
-        <div class="container-fluid" style="background: linear-gradient(-135deg, red 5%, transparent 5%);">
+        <div class="container-fluid" style="background: linear-gradient(135deg, red 5%, transparent 5%);">
             <h1 style="text-align: center;">Ready to get to work??</h1>
-            <p style="text-align: center;">Contact Us today <a href="" style="color: rgb(180, 0, 0); text-decoration: none;">dummymain@dummydomain.com</a></p>
+            <p style="text-align: center;">Contact Us today <a href="" style="color: rgb(180, 0, 0); text-decoration: none;">info.shootpe@gmail.com</a></p>
+            <p style="text-align: center;">Contact - +91-8076660393</p>
             <div class="contact-us">
                 <form class="px-4">
                     <div class="mb-3 row">
