@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DigiVid Media Solution</title>
+    <title>ShootPe</title>
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <script src="https://use.fontawesome.com/1861f71565.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -15,7 +15,7 @@
     <header>
         <nav class="navbar navbar-main navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                <a class="navbar-brand" href="#">DigiVid Media Solutions</a>
+                <a class="navbar-brand" href="#">ShootPe</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -90,7 +90,7 @@
             <div class="navbar-secondary container-fluid px-4 pt-5">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <div class="container-fluid">
-                    <a class="navbar-brand" href="#" style="font-size: 1.5rem;">DigiVid Media Solutions</a>
+                    <a class="navbar-brand" href="#" style="font-size: 1.5rem;">ShootPe</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -135,7 +135,7 @@
                 </nav>
             </div>
             <div class="slogan container">
-                <h3>Digi<span style="color: red; font-size: 2rem; font-weight: bold;">V</span>id Media</h3>
+                <h3>Shoot<span style="color: red; font-size: 2rem; font-weight: bold;">Pe</span></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis quam repellat velit minima iste fugit debitis rerum ipsum, dolore ea! Minus quia repudiandae aspernatur ipsa natus, nam fuga est nobis!
                 </p>
             </div>
@@ -287,7 +287,7 @@
     </div>
 
     <footer class="py-3" style="background: rgb(27, 27, 27);">
-        <p style="text-align: center; color: #fff;">All Rights Reserved. DigiVid Media Solutions (Terms of Use)</p>
+        <p style="text-align: center; color: #fff;">All Rights Reserved. ShootPe (Terms of Use)</p>
         <p style="text-align: center; color: #fff;"><a href="https://adjointindia.com/" style="color: inherit; cursor: pointer;">Powered by AdJoint India</a></p> 
     </footer>
 
